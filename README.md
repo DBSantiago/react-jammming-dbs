@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed using Surge on [this link.](https://dbsantiago-jammming.surge.sh/)
+
 ## Available Scripts
 
 In the project directory, you can run:
